@@ -1,0 +1,13 @@
+.introbox{
+    text-align: center;
+    margin: 150px auto;
+    width: 65%;
+}
+.introbox h1{
+    width: 80%;
+    text-align: center;
+    margin: 30px auto;
+}
+.introbox p{
+    font-size:larger;
+}

@@ -1,0 +1,46 @@
+.custombox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #E6DDC4;
+}
+
+.customright{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    gap: 50px;
+}
+.custombox img{
+    width: 50%;
+}
+
+.customright h1{
+    font-size:50px;
+    color: #678983;
+}
+
+.customright p{
+    font-size: larger;
+}
+.customright button{
+    width: 200px;
+    border: none;
+    padding: 10px;
+    background-color: #678983;
+    color: white;
+    border-radius: 10px;
+}
+
+.customplatforms{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: baseline;
+}
+.customplatforms button{
+    background-color: rgba(0,0,0,.1);
+    color: #678983;
+    width: 100px;
+}

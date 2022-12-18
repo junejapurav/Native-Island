@@ -1,0 +1,66 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    width: 100%;
+}
+header{
+    display: flex;
+    width: 100%;
+    height: 5%;
+    flex-direction: row;
+    font-size: 90%;
+    padding: 0 1rem;
+    justify-content: space-around;
+    background-color: white /*#d8d6d6 /*rgba(244, 182, 66, 0.841);*/;
+    color: black;  /* tobechanged */
+    border-bottom: solid 1px white;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.1rem;
+}
+header a{
+    /* color: white; */
+    text-decoration: none;
+    
+}
+.headerLeft{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0.4rem 2rem;
+    font-weight: 600;
+    transition: 0.3s;
+}
+.headerRight{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0.4rem 2rem;
+    font-weight: 300;
+}
+.headerRight a{
+    color: black;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.headerRight a:hover{
+    color: #28a745;
+}
+
+.headerLeft a{
+    color: black;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.headerLeft div:hover , .headerLeft a:hover{
+    color: #28a745;
+}
+.headerLeft div{
+    padding: 0 0.5rem;
+}
+.headerRight i{
+    padding: 0 0.5rem;
+    font-weight: 300;
+    font-size: 1rem;
+}
