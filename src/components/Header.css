@@ -1,0 +1,6 @@
+.navbar img{
+    width: 100px;
+}
+.navbar{
+    transition: 5s;
+}

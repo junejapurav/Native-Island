@@ -1,5 +1,6 @@
 import pic1 from "../images/Picture1.jpg"
 import pic2 from "../images/Picture2.jpg"
+import pic3 from "../images/Picture5.jpg"
 import '../components/slider.css'
 
 const Slider = ()=>{
@@ -26,7 +27,7 @@ const Slider = ()=>{
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 mypics" src={pic1} alt="Third slide"/>
+      <img class="d-block w-100 mypics" src={pic3} alt="Third slide"/>
       <div class="carousel-caption d-none d-md-block captionn">
       <h1>Remodeling Mobile Experience</h1>
       <p>We put disruption in top gear by helping you create exceptional experiences.</p>

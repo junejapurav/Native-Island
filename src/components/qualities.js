@@ -17,7 +17,7 @@ function Quality(){
                 <p>Training and mentorship programs, interactive sessions and community meetups to drive personal growth.</p>
             </div>
             <div className="eachquality">
-                <h1>01</h1>
+                <h1>03</h1>
                 <h2>Integrate work-life balance</h2>
                 <p>Latest infrastructure and flexible working hours along with many other privileges that inculcate healthy lifestyle choices.</p>
             </div>
