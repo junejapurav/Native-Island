@@ -86,4 +86,7 @@ footer a{
     .lowerfooter .footerdesc{
         width: 80%;
     }
+    .copyright{
+        padding: 20px;
+    }
 }
