@@ -5,3 +5,22 @@
 .captionn{
     background-color: #678983;
 }
+
+#carouselExampleIndicators{
+    width: 100%;
+}
+
+@media screen and (max-width: 800px){
+    .mypics{
+        object-fit:cover;
+    }
+    .carousel-caption{
+        display: block !important;
+    }
+    .captionn h1{
+        font-size: 150%;
+    }
+    .captionn p{
+        font-size: 80%;
+    }
+}

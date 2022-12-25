@@ -62,3 +62,28 @@ footer a{
     padding: 50px;
     font-size: larger;
 }
+
+@media screen and (max-width: 900px){
+    .upperfooter{
+        padding: 10px;
+        justify-content: baseline;
+        
+    }
+    .upperfooter button{
+        padding: 5px;
+        font-size: 70%;
+    }
+    .upperfooter h1{
+        font-size: 150%;
+    }
+    .lowerfooter{
+        flex-direction: column;
+        padding: 20px;
+    }
+    .lowerfooter div{
+        width: 80%;
+    }
+    .lowerfooter .footerdesc{
+        width: 80%;
+    }
+}

@@ -64,3 +64,10 @@ header a{
     font-weight: 300;
     font-size: 1rem;
 }
+
+@media screen and (max-width: 950px){
+    header{
+        display: none;
+    }
+
+}

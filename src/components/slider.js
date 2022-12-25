@@ -1,5 +1,5 @@
-import pic1 from "../images/Picture1.jpg"
-import pic2 from "../images/Picture2.jpg"
+import pic1 from "../images/Picture6.jpg"
+import pic2 from "../images/Picture7.jpg"
 import pic3 from "../images/Picture5.jpg"
 import '../components/slider.css'
 

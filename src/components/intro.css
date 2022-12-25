@@ -11,3 +11,21 @@
 .introbox p{
     font-size:larger;
 }
+
+@media screen and (max-width: 800px){
+ .introbox{
+    width: 80%;
+    margin: 80px auto;
+ }
+ .introbox h1{
+    width: 80%;
+ }
+
+}
+
+@media screen and (max-width: 800px){
+    .introbox h1{
+        font-size: 200%;
+        width: 90%;
+    }
+}

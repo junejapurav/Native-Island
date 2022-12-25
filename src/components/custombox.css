@@ -45,3 +45,16 @@
     color: #678983;
     width: 100px;
 }
+
+@media screen and (max-width: 1000px){
+    .custombox{
+        flex-direction: column;
+        padding-bottom: 50px;
+    }
+    .customright{
+        width: 90%;
+    }
+    .custombox img{
+        width: 100%;
+    }
+}

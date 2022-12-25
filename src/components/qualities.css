@@ -30,3 +30,17 @@
     font-size: 70px;
     color: #9eb7c6;
 }
+
+@media screen and (max-width: 800px){
+    .qualities{
+        flex-direction: column;
+    }
+    .eachquality{
+        width: 100%;
+        padding: 0;
+        gap: 10px;
+    }
+    .qualitybox h1+p{
+        width: 90%;
+    }
+}

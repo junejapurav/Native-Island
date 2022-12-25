@@ -17,9 +17,9 @@ function Foot() {
                     <h5>Social Medias</h5>
                     <div className="socialmedfooter">
                         <a href=""><i className="fa-brands fa-instagram"></i></a>
-                        <a href=""><i className="fa-brands fa-facebook"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=100088670056881"><i className="fa-brands fa-facebook"></i></a>
                        <a href=""> <i className="fa-brands fa-twitter"></i></a>
-                       <a href=""><i className="fa-brands fa-linkedin"></i></a> 
+                       <a href="https://www.linkedin.com/company/native-island/about/"><i className="fa-brands fa-linkedin"></i></a> 
                     </div>
                 </div>
                 <div>
