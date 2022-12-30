@@ -5,7 +5,7 @@ function Headinfo(){
         <header>
         <div className="headerLeft">
         <div id="headerPhone"><i className="fa-solid fa-phone-flip"></i> <a href="tel:903-449-6886">+91 903-449-6886</a></div>
-        <div id="headerMail"><i className="fa-solid fa-envelope"></i> <a href="mailto:yournativeisland@gmail.com">yournativeisland@gmail.com</a></div>
+        <div id="headerMail"><i className="fa-solid fa-envelope"></i> <a href="mailto:bharat.juneja@proskart.com">bharat.juneja@proskart.com</a></div>
         <div id="headerLoc"><i className="fa-solid fa-location-dot"></i> Gurgaon, Haryana</div>
         </div>
         <div className="headerRight">

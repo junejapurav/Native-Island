@@ -1,5 +1,5 @@
 import Headinfo from './headinfo'
-import pic from "../images/Native Island-logos.jpeg"
+import pic from "../images/Native Island-logos.jpg"
 import "./Header.css"
 
 function Header(){
