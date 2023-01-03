@@ -5,13 +5,13 @@ function Foot() {
     return(
         <footer>
             <div className="upperfooter">
-                <h1>Connect to Pros Kart</h1>
+                <h1>Connect to Proskart</h1>
                 <button><i className="fa-solid fa-phone-flip"></i> Make a Call</button>
             </div>
             <div className="lowerfooter">
                 <div className="footerdesc">
-                    <span><img src={pic}></img> <h5>Pros Kart</h5></span>
-                    <p>Pros Kart is a web and app development company that turns your ideas into a new driving force of your business. We hire brilliant mobile app and web developers to deliver projects on time and maintain the top-notch code standards. Pros Kart dream, architect, design and develop. But more than that, we are a team of passionate people driven by one relentless pursuit- to craft innovative solutions and deliver unparalleled results.</p>
+                    <span><img src={pic}></img> <h5>Proskart</h5></span>
+                    <p>Proskart is a web and app development company that turns your ideas into a new driving force of your business. We hire brilliant mobile app and web developers to deliver projects on time and maintain the top-notch code standards. Proskart dream, architect, design and develop. But more than that, we are a team of passionate people driven by one relentless pursuit- to craft innovative solutions and deliver unparalleled results.</p>
                 </div>
                 <div>
                     <h5>Social Medias</h5>
